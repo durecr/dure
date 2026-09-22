@@ -5,7 +5,7 @@
         "download_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.puzzle.game.arrow.escape",
         "web_url": "https:\/\/example.com",
         "app_version": "0",
-        "message": "New update available!",
+        "message": "If you want to share app to friends and app doesn't available on play store click here",
         "message_url": "https:\/\/play.google.com\/store\/apps\/details?id=com.arrow.out.game.puzzle",
         "share_message": "https:\/\/play.google.com\/store\/apps\/details?id=com.puzzle.game.arrow.escape",
         "bottom_visible": "no",
